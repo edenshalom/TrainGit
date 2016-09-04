@@ -1,5 +1,3 @@
 This is my first file
 From remote
-
-
-on branch feature1
+From remote 2
